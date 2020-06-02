@@ -1,0 +1,13 @@
+G:\UIPath\C#\Classic Snake Game\bin\Debug\netcoreapp3.1\Classic Snake Game.exe
+G:\UIPath\C#\Classic Snake Game\bin\Debug\netcoreapp3.1\Classic Snake Game.deps.json
+G:\UIPath\C#\Classic Snake Game\bin\Debug\netcoreapp3.1\Classic Snake Game.runtimeconfig.json
+G:\UIPath\C#\Classic Snake Game\bin\Debug\netcoreapp3.1\Classic Snake Game.runtimeconfig.dev.json
+G:\UIPath\C#\Classic Snake Game\bin\Debug\netcoreapp3.1\Classic Snake Game.dll
+G:\UIPath\C#\Classic Snake Game\bin\Debug\netcoreapp3.1\Classic Snake Game.pdb
+G:\UIPath\C#\Classic Snake Game\obj\Debug\netcoreapp3.1\Classic Snake Game.csprojAssemblyReference.cache
+G:\UIPath\C#\Classic Snake Game\obj\Debug\netcoreapp3.1\Classic Snake Game.csproj.CoreCompileInputs.cache
+G:\UIPath\C#\Classic Snake Game\obj\Debug\netcoreapp3.1\Classic Snake Game.AssemblyInfoInputs.cache
+G:\UIPath\C#\Classic Snake Game\obj\Debug\netcoreapp3.1\Classic Snake Game.AssemblyInfo.cs
+G:\UIPath\C#\Classic Snake Game\obj\Debug\netcoreapp3.1\Classic Snake Game.dll
+G:\UIPath\C#\Classic Snake Game\obj\Debug\netcoreapp3.1\Classic Snake Game.pdb
+G:\UIPath\C#\Classic Snake Game\obj\Debug\netcoreapp3.1\Classic Snake Game.genruntimeconfig.cache
